@@ -82,6 +82,3 @@ MODEL = "llama3.2-vision"
 3. If confidence >= `CONFIDENCE_THRESHOLD`, file stays
 4. Otherwise, file is moved to `TRASH_DIR`
 
-## License
-
-MIT
